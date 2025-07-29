@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=froglinggg.froglinggg&right_color=darkblue&left_text=pills%20swallowed:"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=froglinggg.froglinggg&right_color=darkblue&left_text=litres%20of%20beer:"  />
 </div>
 
 ###
