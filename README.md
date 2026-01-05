@@ -1,4 +1,4 @@
-<h2 align="center">𝒇𝒓𝒐𝒈 ᵒʳ 𝒌𝒂𝒕𝒚𝒂</h2>
+<h2 align="center">𝒇𝒓𝒐𝒈 ᵒʳ 𝒌𝒂𝒕</h2>
 
 ###
 
